@@ -1,1 +1,2 @@
 Content conflict A
+Content conflict B
